@@ -1,10 +1,6 @@
-![image](https://github.com/Botleigh-Grange/Practice/assets/151997230/353d23b5-de75-4f6e-aca3-d2d04f431d9d)
-
-
-
 # Practice
 
-
+![image](https://github.com/Botleigh-Grange/Practice/assets/151997230/353d23b5-de75-4f6e-aca3-d2d04f431d9d)
 
 
 
