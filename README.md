@@ -1,17 +1,17 @@
 # Practice
 + > # [***Hotel history 📜***](https://botleigh-grange.github.io/History/) 
 ____
-+ > # pizza 🍕
++ > # [***Royal swan 🏨*** ](https://www.booking.com/hotel/gb/royal-swan-ashley-manor.en-gb.html)
 _____
-+ > # pizza 🍕
++ > # [***Book a room now 📌***](https://www.booking.com/hotel/gb/botleigh-grange-and-spa.en-gb.html)
 ____
-+ > # pizza 🍕
-_____
-____
-+ > # pizza 🍕
++ > # [***Afternoon Tea ☕***](https://botleigh-grange.github.io/Afternoon-Tea/) 
 _____
 ____
-+ > # pizza 🍕
++ > # [***Restaurant 🍽️***](https://botleigh-grange.github.io/Lunch-Dinner/)
+_____
+____
++ > # [***Events 🎉📅***](https://botleigh-grange.github.io/Upcoming-events/) 
 _____
 
 
