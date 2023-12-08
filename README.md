@@ -3,7 +3,7 @@
 ____
 + > # [***Royal swan 🏨*** ](https://www.booking.com/hotel/gb/royal-swan-ashley-manor.en-gb.html)
 _____
-+ > # [***Book a room now 📌***](https://www.booking.com/hotel/gb/botleigh-grange-and-spa.en-gb.html)
++ > # [***Book a room  📌***](https://www.booking.com/hotel/gb/botleigh-grange-and-spa.en-gb.html)
 ____
 + > # [***Afternoon Tea ☕***](https://botleigh-grange.github.io/Afternoon-Tea/) 
 _____
