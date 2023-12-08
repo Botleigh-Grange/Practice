@@ -1,4 +1,4 @@
-# Practice
+# Home
 + > # [***Hotel history 📜***](https://botleigh-grange.github.io/History/) 
 ____
 + > # [***Royal swan 🏨*** ](https://www.booking.com/hotel/gb/royal-swan-ashley-manor.en-gb.html)
