@@ -4,7 +4,7 @@
 
 
 
-
++ > ## [Pic](https://github.com/Botleigh-Grange/Pics/assets/151997230/d9e59aa4-0fd0-4053-b3b9-0617063877ed)
 
 
 + > ## [***Book a room  📌***](https://www.booking.com/hotel/gb/botleigh-grange-and-spa.en-gb.html)
