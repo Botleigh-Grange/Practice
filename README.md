@@ -8,7 +8,7 @@
 
 ____
 
-> [***`Royal swan 🏨`*** ](https://www.booking.com/hotel/gb/royal-swan-ashley-manor.en-gb.html)
+> [***`Royal swan  🏨`*** ](https://www.booking.com/hotel/gb/royal-swan-ashley-manor.en-gb.html)
 
 ____
 
@@ -21,8 +21,8 @@ ___
 ___
 
 
-> ### [***`Restaurant 🍽️`***](https://botleigh-grange.github.io/Lunch-Dinner/)
+>  [***`Restaurant 🍽️`***](https://botleigh-grange.github.io/Lunch-Dinner/)
 
 ___
-> ### [***`Events 🎉📅`***](https://botleigh-grange.github.io/Upcoming-events/)
+> [***`Events 🎉📅`***](https://botleigh-grange.github.io/Upcoming-events/)
 
