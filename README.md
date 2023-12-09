@@ -1,6 +1,14 @@
 
 
-> # ***`Practice`***
+  > # ***`Practice`***
+  <details>
+  A
+
+  B
+
+  B
+  
+</details>
 
 ![image](https://github.com/Botleigh-Grange/Practice/assets/151997230/c244a715-c313-4306-a66b-518c0ebc1969)
 
@@ -26,3 +34,11 @@ ___
 ___
 > [***`Events 🎉📅`***](https://botleigh-grange.github.io/Upcoming-events/)
 
+ ***<details>***
+  A
+
+  B
+
+  B
+  
+</details>
