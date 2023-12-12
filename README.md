@@ -3,11 +3,11 @@
 <details>
  <summary> Main menu</summary>
  
- > [Gov](https://findajob.dwp.gov.uk/details/13459307)
+[Gov](https://findajob.dwp.gov.uk/details/13459307)
 
-> [Indeed](https://uk.indeed.com/jobs-in-Hampshire?aceid=&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6ia2W2Y0r0wXq-m5KGVAEnYuSXOqzlfsW-0XlhVM85tnrHldG50QogaAoj-EALw_wcB)
+[Indeed](https://uk.indeed.com/jobs-in-Hampshire?aceid=&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6ia2W2Y0r0wXq-m5KGVAEnYuSXOqzlfsW-0XlhVM85tnrHldG50QogaAoj-EALw_wcB)
 
-> [Work](https://chat.openai.com/c/9b4a3812-ab09-4283-b99d-970c90e68461)
+[Work](https://chat.openai.com/c/9b4a3812-ab09-4283-b99d-970c90e68461)
    
  </details>
 
